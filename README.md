@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there 👋, I'm Ofek</h1>
+Ofek Shmuely</h1>
 
 
 <p align="center">
