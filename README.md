@@ -9,8 +9,16 @@ Ofek Shmuely</h1>
 <h1 align="center">
 </h1>
 
-<p align="center">
 
+
+
+
+<p align="center">
+      <img src="https://im2.ezgif.com/tmp/ezgif-2-e5b249584c9d.gif" width="126px"/>
+
+
+
+<p align="center">
 
   <a href="https://linkedin.com/in/ofeks" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="26px"/>
