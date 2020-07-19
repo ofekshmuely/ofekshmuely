@@ -9,14 +9,14 @@ Hi 👋, I'm Ofek</h1>
 
 <p align="center">
 
-  <a href="https://ofek.xyz">
+  <a href="https://ofek.xyz" target="_blank">
     <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://linkedin.com/in/ofeks">
+  <a href="https://linkedin.com/in/ofeks" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="26px"/>
   </a>
   &emsp;
-  <a href="https://twitter.com/ofek_shmuely">
+  <a href="https://twitter.com/ofek_shmuely" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="26px"/>
   </a>
