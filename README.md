@@ -1,6 +1,5 @@
 <h1 align="center">
 Hi 👋, I'm Ofek</h1>
-<a href=https://codepen.io/rahuldkjain target="blank"><img align="center"height="20" width="20" /></a>
 
 
 <p align="center">
