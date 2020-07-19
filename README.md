@@ -11,3 +11,6 @@
 * <span title="Website">🏠</span>: [ofek.xyz](https://ofek.xyz/)
 * <span title="I like">❤️</span>: <span title="programming">💻</span> <span title="tennis">🎾</span> <span title="traveling">🚗</span> <span title="jogging">🏃</span> <span title="melody writing">🎵</span> <span title="good UX and UI">🌻</span>
 
+  <a  align="center" href="https://badges.pufler.dev"> href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/ofekshmuely/ofekshmuely?style=flat-square&color=black&logo=github">
+  </a>
