@@ -2,7 +2,6 @@
 
 <p align="center">
 <h1 align="center">Ofek Shmuely</h1>
-<h5 align="center">Front End Developer</h5>
 </p>
 
 
