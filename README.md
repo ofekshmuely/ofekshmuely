@@ -14,3 +14,4 @@
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/ofekshmuely/ofekshmuely?style=flat-square&color=black&logo=github">
   </a>
+[![Visits Badge](https://badges.pufler.dev/visits/ofekshmuely/git-badges)](https://badges.pufler.dev)
