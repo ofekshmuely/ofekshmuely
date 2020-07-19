@@ -1,7 +1,9 @@
-<h1 align="center">
-Ofek Shmuely</h1>
+
+
+<p align="center">
+<h1 align="center">Ofek Shmuely</h1>
 <h5 align="center"></h5>
-Front End Developer</h1>
+</p>
 
 
 <p align="center">
