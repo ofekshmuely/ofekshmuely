@@ -7,11 +7,16 @@
 </p>
 
 
-* <span title="Email">📧</span>: [hello@ofekshmuely.com](mailto:hello@ofekshmuely.com)
-* <span title="Website">🏠</span>: [ofek.xyz](https://ofek.xyz/)
-* <span title="I like">❤️</span>: <span title="programming">💻</span> <span title="tennis">🎾</span> <span title="traveling">🚗</span> <span title="jogging">🏃</span> <span title="melody writing">🎵</span> <span title="good UX and UI">🌻</span>
+<p align="center">
 
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/ofekshmuely/ofekshmuely?style=flat-square&color=black&logo=github">
+  <a href="https://ofek.xyz">
+    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
   </a>
-[![Visits Badge](https://badges.pufler.dev/visits/ofekshmuely/git-badges)](https://badges.pufler.dev)
+  &emsp;
+  <a href="https://linkedin.com/in/ofeks">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/ofek_shmuely">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="26px"/>
+  </a>
