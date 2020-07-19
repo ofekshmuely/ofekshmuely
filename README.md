@@ -14,11 +14,6 @@ Ofek Shmuely</h1>
 
 
 <p align="center">
-      <img src="https://im2.ezgif.com/tmp/ezgif-2-e5b249584c9d.gif" width="126px"/>
-
-
-
-<p align="center">
 
   <a href="https://linkedin.com/in/ofeks" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="26px"/>
@@ -31,3 +26,4 @@ Ofek Shmuely</h1>
   <a href="https://twitter.com/ofek_shmuely" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="26px"/>
   </a>
+  </p>
