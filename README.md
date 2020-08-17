@@ -2,6 +2,7 @@
 
 <p align="center">
 <h1 align="center">Ofek Shmuely</h1>
+<h3 align="center">👨‍💻  🎾   🎮 📊</h3>
 </p>
 
 
