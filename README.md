@@ -20,14 +20,14 @@
 <p align="center">
 
   <a href="https://linkedin.com/in/ofeks" target="_blank">
-    <img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square-300x300.png" width="26px"/>
+    <img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square-300x300.png" width="40px"/>
   </a>
     &emsp;
   <a href="https://ofek.xyz" target="_blank">
-    <img src="https://ofekshmuely.com/static/ofek-020e5cdf9050a3648f21dbb8762b55fc.gif" width="38px"/>
+    <img src="https://cortechx.github.io/img/services/web_icon.png" width="40px"/>
   </a>
   &emsp;
   <a href="https://twitter.com/ofek_shmuely" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="26px"/>
+    <img src="https://androidapksfree.com/wp-content/uploads/2015/07/Twitter-APK-1.png" width="40px"/>
   </a>
   </p>
