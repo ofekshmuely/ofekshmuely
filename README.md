@@ -20,11 +20,11 @@
 <p align="center">
 
   <a href="https://linkedin.com/in/ofeks" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="26px"/>
+    <img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Square-300x300.png" width="26px"/>
   </a>
     &emsp;
   <a href="https://ofek.xyz" target="_blank">
-    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
+    <img src="https://ofekshmuely.com/static/ofek-020e5cdf9050a3648f21dbb8762b55fc.gif" width="38px"/>
   </a>
   &emsp;
   <a href="https://twitter.com/ofek_shmuely" target="_blank">
