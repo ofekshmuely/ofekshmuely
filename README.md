@@ -25,7 +25,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -43,9 +42,8 @@
 
 <p align="center">
 
-[![GitHub](icons/github.png)](https://github.com/ofekshmuely)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/ofek15)
-[![Twitter](icons/twitter.png)](https://twitter.com/ofek_shmuely)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/ofeks/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ofek%20Shmuely-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofeks)](https://www.linkedin.com/in/ofeks/)
+[![Youtube Badge](https://img.shields.io/badge/-Ofeks-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/ofek15)
+[![Gmail Badge](https://img.shields.io/badge/-hire@ofek.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hire@ofek.xyz)](mailto:hire@ofek.xyz)
 
 
