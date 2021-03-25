@@ -1,5 +1,7 @@
 
-<h1 align="center"><img src="https://i.pinimg.com/originals/18/8c/fa/188cfa53a6ef3231c4e261acc132112e.gif" width="40px"/> I'm <a href="https://ofek.xyz/" target="_blank">Ofek</a>. <img src="https://i.pinimg.com/originals/18/8c/fa/188cfa53a6ef3231c4e261acc132112e.gif" width="40px"/> </h1>
+<h1 align="center"><img src="https://github.com/ofekshmuely/ofekshmuely/blob/master/assets/text.png?raw=true"/> I'm <a href="https://ofek.xyz/" target="_blank">Ofek</a>. <img src="https://i.pinimg.com/originals/18/8c/fa/188cfa53a6ef3231c4e261acc132112e.gif" width="40px"/> </h1>
+
+<img src="https://github.com/ofekshmuely/ofekshmuely/blob/master/assets/text.png?raw=true" /> 
 
 <p align="center">
 <p  align="center">
