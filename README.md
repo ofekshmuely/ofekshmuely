@@ -46,7 +46,7 @@
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&labelColor=0078d7)
 ![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=Visual%20Studio%20Code&labelColor=0078d7)
-![vscode](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=Adobe%20Photoshop&labelColor=0078d7)
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=Adobe%20Photoshop&labelColor=0078d7&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&labelColor=black)
 
 
