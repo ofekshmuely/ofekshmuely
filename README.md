@@ -27,14 +27,20 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Saas](https://img.shields.io/badge/-Saas-cc6699?style=flat-square&logo=sass&labelColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&labelColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&labelColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=black)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&labelColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&labelColor=black)
-![Java](https://img.shields.io/badge/-java-f89820?style=flat-square&logo=Java&labelColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB&labelColor=black)
+![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&labelColor=f89820&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&labelColor=black)
+![Shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=Shopify&labelColor=black)
+![Woo](https://img.shields.io/badge/-WooCommerce-black?style=flat-square&logo=Woo&labelColor=black)
+![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress&labelColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&labelColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&labelColor=black)
+
+![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=Visual%20Studio%20Code&labelColor=0078d7)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&labelColor=black)
 
 
 
