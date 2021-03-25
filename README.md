@@ -33,15 +33,19 @@
 ![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=flat-square&logo=Grunt&labelColor=FBA919&logoColor=black)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&labelColor=black)
 ![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&labelColor=black)
-![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&labelColor=f89820&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&labelColor=black)
+
 ![Shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=Shopify&labelColor=black)
 ![Woo](https://img.shields.io/badge/-WooCommerce-black?style=flat-square&logo=Woo&labelColor=black)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress&labelColor=black)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=Gatsby&labelColor=black)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&labelColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&labelColor=black)
+
+![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&labelColor=f89820&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=PHP&labelColor=7377AD&logoColor=black)
 
 
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&labelColor=0078d7)
