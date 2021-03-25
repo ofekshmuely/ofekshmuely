@@ -25,6 +25,7 @@
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/ofeks/)
 
 
-  </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ofekshmuely)
+
+
+                        <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
