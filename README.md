@@ -1,7 +1,6 @@
 
 <h1 align="center"><img src="https://github.com/ofekshmuely/ofekshmuely/blob/master/assets/text.png?raw=true"/> </h1>
 
-<img src="https://github.com/ofekshmuely/ofekshmuely/blob/master/assets/text.png?raw=true" /> 
 
 
 
