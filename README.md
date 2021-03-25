@@ -2,7 +2,9 @@
 
 <p align="center">
 <h1 align="center">Ofek Shmuely</h1>
-<h3 align="center">👨‍💻  🎾 🎮 📊</h3>
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.ofek_shmuely" alt="visitor badge"/>
+</p>
 </p>
 
 
