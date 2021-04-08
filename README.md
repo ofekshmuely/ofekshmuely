@@ -1,6 +1,5 @@
 
 
-<h1 align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=ofekshmuely"/> </h1>
 
 
 <h1 align="center"><img src="https://github.com/ofekshmuely/ofekshmuely/blob/master/assets/text.png?raw=true"/> </h1>
