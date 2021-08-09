@@ -31,8 +31,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&labelColor=black)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&labelColor=black)
 ![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=flat-square&logo=Grunt&labelColor=FBA919&logoColor=black)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&labelColor=black)
-![Vue](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=Vue.js&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&labelColor=black)
 
