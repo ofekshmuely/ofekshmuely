@@ -42,7 +42,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&labelColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&labelColor=black)
 
-![Java](https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=Java&labelColor=f89820&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=PHP&labelColor=7377AD&logoColor=black)
 
 
