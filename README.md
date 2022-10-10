@@ -68,7 +68,8 @@
 
 
 
-🎧 Currently Playing 
+    <h1 align="center">🎧Now Playing..</h1>
+
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e5ory0hr7zwqtqf89pwpup0j&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
