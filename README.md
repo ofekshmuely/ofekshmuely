@@ -6,15 +6,17 @@
   <a href="https://github.com/ofekshmuely/my-avatar"><img src="https://raw.githubusercontent.com/ofekshmuely/ofekshmuely/master/assets/text.png" alt="Ofek Shmuely" ></a>
 </p>
 <a href="https://github.com/ofekshmuely/my-avatar"><img src="https://pbs.twimg.com/profile_banners/876106701895847936/1594601562/1500x500" alt="Ofek Shmuely" ></a>
+
 </p>
 
+<h3>Now on Spotify:</h3>
 
 
 
-
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e5ory0hr7zwqtqf89pwpup0j&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## ⚡ Technologies
+<h3>Front End</h3>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -55,32 +57,5 @@
 <a href="https://twitter.com/intent/follow?screen_name=ofek_shmuely"> <img src="https://img.shields.io/twitter/follow/ofek_shmuely?style=social&logo=twitter" alt="follow on Twitter"></a>
 
 
-<table><tr><td valign="top" width="30%">
-  <h1 align="center">Watch my livestreams</h1>
-
-
-  <a href="https://www.twitch.tv/ofeks"><img src='https://media.tenor.com/cXxyLBfDOUgAAAAC/streaming-twitch.gif' title="Meme" alt="Please refresh the page if the meme doesn't show up."></a>
-
-
-
-
-</td><td valign="top" width="20%">
-
-
-
-    <h1 align="center">🎧Now Playing..</h1>
-
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e5ory0hr7zwqtqf89pwpup0j&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</td><td valign="top" width="50%">
-
-
-
-  <h1 align="center">Meme.random()</h1>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-</div>
-
-</td></tr></table>  
+ 
 
