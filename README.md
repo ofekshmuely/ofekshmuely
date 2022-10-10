@@ -6,6 +6,8 @@
   <a href="https://github.com/ofekshmuely/my-avatar"><img src="https://raw.githubusercontent.com/ofekshmuely/ofekshmuely/master/assets/text.png" alt="Ofek Shmuely" ></a>
 </p>
 <a href="https://github.com/ofekshmuely/my-avatar"><img src="https://pbs.twimg.com/profile_banners/876106701895847936/1594601562/1500x500" alt="Ofek Shmuely" ></a>
+<p align="center"><span><a href="https://github.com/ofekshmuely/my-avatar"><img src="https://i.imgur.com/zDUODEK.png" width="245px" alt="Ofek Shmuely" ></a></span>
+</p>
 
 </p>
 
@@ -14,6 +16,7 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e5ory0hr7zwqtqf89pwpup0j&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## ⚡ Technologies
 <h3>Front End</h3>
