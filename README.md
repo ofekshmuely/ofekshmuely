@@ -6,8 +6,7 @@
   <a href="https://github.com/ofekshmuely/my-avatar"><img src="https://raw.githubusercontent.com/ofekshmuely/ofekshmuely/master/assets/text.png" alt="Ofek Shmuely" ></a>
 </p>
 <a href="https://github.com/ofekshmuely/my-avatar"><img src="https://pbs.twimg.com/profile_banners/876106701895847936/1594601562/1500x500" alt="Ofek Shmuely" ></a>
-<p align="center"><span><a target="_blank href="https://www.twitch.tv/ofeks"><img src="https://i.imgur.com/zDUODEK.png" width="245px" alt="Ofek Shmuely" ></a></span>
-</p>
+<p align="center"><a href="https://www.twitch.tv/ofeks"><img src="https://i.imgur.com/zDUODEK.png" width="245px" alt="Ofek Shmuely" ></a></p>
 
 </p>
 
