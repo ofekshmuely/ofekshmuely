@@ -10,7 +10,7 @@
 
 </p>
 
-<h3>Now on Spotify:</h3>
+##  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> Now Playing  
 
 
 
@@ -20,32 +20,65 @@
 ## ⚡ Technologies
 <h3>Front End</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Saas](https://img.shields.io/badge/-Saas-cc6699?style=flat-square&logo=sass&labelColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&labelColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&labelColor=black)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&labelColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+
+
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express&labelColor=black)
 ![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=flat-square&logo=Grunt&labelColor=FBA919&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&labelColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL&labelColor=black)
 
+
+
+
+
+
+<h3>Back End</h3>
+
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+<h3>Ecommerce & Design</h3>
+
 ![Shopify](https://img.shields.io/badge/-Shopify-black?style=flat-square&logo=Shopify&labelColor=black)
 ![Woo](https://img.shields.io/badge/-WooCommerce-black?style=flat-square&logo=Woo&labelColor=black)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=flat-square&logo=Wordpress&labelColor=black)
-![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=Gatsby&labelColor=black)
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&labelColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&labelColor=black)
-
-![PHP](https://img.shields.io/badge/-PHP-7377AD?style=flat-square&logo=PHP&labelColor=7377AD&logoColor=black)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 
 
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows&labelColor=0078d7)
-![vscode](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat-square&logo=Visual%20Studio%20Code&labelColor=0078d7)
-![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=Adobe%20Photoshop&labelColor=0078d7&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma&labelColor=0078d7&logoColor=white)
+
+
+
+
+
+<h3>Workspace</h3>
+
+
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
+
 
 
 
@@ -55,8 +88,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ofek%20Shmuely-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ofeks)](https://www.linkedin.com/in/ofeks/)
 [![Youtube Badge](https://img.shields.io/badge/-Ofeks-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/ofek15)
+[![Twitch Badge](https://img.shields.io/badge/-Ofeks-6441a5?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/ofeks)](https://www.twitch.tv/ofeks)
 [![Gmail Badge](https://img.shields.io/badge/-hire@ofek.xyz-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hire@ofek.xyz)](mailto:hire@ofek.xyz)
 <a href="https://twitter.com/intent/follow?screen_name=ofek_shmuely"> <img src="https://img.shields.io/twitter/follow/ofek_shmuely?style=social&logo=twitter" alt="follow on Twitter"></a>
+
+
+
 
 
  
