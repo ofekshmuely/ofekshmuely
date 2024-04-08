@@ -1,15 +1,9 @@
-<h1 align="center">
-  <img src="https://komarev.com/ghpvc/?username=ofekshmuely&style=plastic"/>
-</h1>
-
----
-
-## Profile Overview
 
 <p align="center">
   <a href="https://github.com/ofekshmuely/my-avatar">
     <img src="https://raw.githubusercontent.com/ofekshmuely/ofekshmuely/master/assets/text.png" alt="Ofek Shmuely">
   </a>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='75'>
 </p>
 <p align="center">
   <a href="https://github.com/ofekshmuely/my-avatar">
@@ -19,7 +13,7 @@
 
 ---
 
-## Now Playing on Spotify
+## ▶ Now Playing on Spotify
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e5ory0hr7zwqtqf89pwpup0j&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -30,7 +24,7 @@
 ### Front End
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -38,7 +32,7 @@
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
