@@ -13,11 +13,6 @@
 
 ---
 
-## ▶ Now Playing on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5e5ory0hr7zwqtqf89pwpup0j&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
----
 
 ## Technologies
 
