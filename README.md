@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://github.com/ofekshmuely/my-avatar">
-    <img src="https://i.ibb.co/tpmrdT2W/Ofek-shmuely-5-6-2025.png" alt="Ofek Shmuely"  width='175'>
-  </a>
+
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='75'>
+    <a href="https://github.com/ofekshmuely/my-avatar">
+    <img src="https://i.postimg.cc/HLGHp4fd/1f7b667e-0e00-44e7-ac89-251d7a435e90.png" alt="Ofek Shmuely" height="211"  width='175'>
+  </a>
 </p>
 
 <p align="center">
@@ -74,4 +75,5 @@
 </table>
 
 ---
+
 
